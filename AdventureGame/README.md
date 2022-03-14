@@ -5,5 +5,6 @@ Patika-Dev-TUBITAK
 
 ## second-week
 İleri seviye Git, Java 102
+JAVA-17 ile yazılmıştır, Lombok , Log4j kütüphaneleri kullanılmaktadır. Proje Maven kullanılmıştır.
+Bu ödevde tasarım, bana ait olup uml şekildeki gibidir.![image info](./uml.png)
 
-Bu ödevde tasarım, bana ait olup uml şekildeki gibidir.
